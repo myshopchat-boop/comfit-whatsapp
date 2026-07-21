@@ -1,0 +1,15 @@
+{
+  "name": "comfit-whatsapp-automation",
+  "version": "1.0.0",
+  "description": "ComFit Zone - Shopify order confirmation via WhatsApp Cloud API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
